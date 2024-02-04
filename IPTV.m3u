@@ -411,7 +411,7 @@ http://stream.snrtv.com/sxbc-5-mruGL8.m3u8
 http://stream.snrtv.com/sxbc-7-fpsD47.m3u8
 #EXTINF:-1 group-title="陕西台" tvg-id="陕西农林卫视" tvg-logo="http://tv.haoqu99.com/d/file/2020/0117/small2ea19a3b78ce992293bda6a20d7166c3.jpg",陕西农林卫视
 http://stream.snrtv.com/sxbc-nl-hnBDUW.m3u8
-#EXTINF:-1 group-title="香港台” tvg-id="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png",凤凰中文
+#EXTINF:-1 group-title="香港台" tvg-id="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png",凤凰中文
 http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
 #EXTINF:-1 group-title="香港台" tvg-id="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png",凤凰资讯
 http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
