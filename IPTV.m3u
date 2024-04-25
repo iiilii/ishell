@@ -58,9 +58,10 @@ http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380775932cff/1.m3u8?
 #EXTINF:-1 tvg-name="央视高网" tvg-logo="https://epg.112114.xyz/logo/cctv17.png" group-title="央视",央视高网
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807743b61bb/1.m3u8?m3u8_level=2
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" group-title="卫视",凤凰中文
-http://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8
+http://210.210.155.37/uq2663/h/h157/index2.m3u8
+http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52003/index.m3u8
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰资讯" group-title="卫视",凤凰资讯
-http://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
+http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52002/index.m3u8
 #EXTINF:-1 tvg-id="284" tvg-name="凤凰香港" group-title="卫视",凤凰香港
 http://103.95.24.37:880/fhxgt.m3u8
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="卫视",北京卫视
